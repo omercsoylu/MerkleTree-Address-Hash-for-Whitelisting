@@ -1,0 +1,26 @@
+{
+  "name": "merkletreeforwhitelist",
+  "version": "1.0.0",
+  "description": "Using merkletree to save gas in whitelist usage",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "node script.js"
+  },
+  "keywords": [
+    "merkle",
+    "merkletree",
+    "block",
+    "blockchain",
+    "chain",
+    "nft",
+    "mint",
+    "whitelist"
+  ],
+  "author": "github.com/omercsoylu",
+  "license": "ISC",
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9"
+  }
+}
