@@ -2,6 +2,7 @@
 # MerkleTree Address Hash for Whitelisting
 
 - A method you can use to save gas while whitelisting your smart contracts.
+
 [TR] Bu repository, Bitcoin ve diğer kripto paralarda kullanılan adresleri hashlemek için Merkle ağacı yapısını kullanmaktadır. Bu yapı sayesinde, adreslerin güvenliği ve gizliliği sağlanmaktadır.
 
 [EN] This repository uses the Merkle tree structure to hash addresses used in Bitcoin and other cryptocurrencies. Thanks to this structure, the security and confidentiality of addresses are ensured.
